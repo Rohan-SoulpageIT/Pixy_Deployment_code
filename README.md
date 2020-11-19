@@ -1,2 +1,5 @@
 # Pixy_Deployment_code.
-# Pixsy Fingerprinting and Classification  `git clone`  `pip install -r requirements.txt`
+ `git clone`  
+ `pip install -r requirements.txt`
+ #Run The code
+ python3 app.py
