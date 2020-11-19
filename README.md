@@ -1,5 +1,5 @@
 # Pixy_Deployment_code.
  `git clone`  
  `pip install -r requirements.txt`
- #Run The code
+ # To run the code.
  python3 app.py
